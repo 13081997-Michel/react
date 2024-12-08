@@ -32,7 +32,6 @@ const storage = new Storage(client)
       </Routes>
       
     </>
-  )
+    );
 }
-
 export default App
